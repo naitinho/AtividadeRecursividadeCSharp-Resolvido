@@ -1,0 +1,29 @@
+ATIVIDADE RECURSIVIDADE EM CSharp:
+
+- COMO RODAR O CODIGO:
+Abrir a pasta /ExemploRecursividade no VSCode.
+Para rodar, use o comando `dotnet run`
+
+IMPORTANTE: Necessário ter instalado .NET 6 na máquina
+
+- ESTRUTURA:
+Program.cs - contém apenas a execução para testes. Não precisa alterar nada nele
+
+demais Classes e Métodos fazem parte da atividade.
+
+- TAREFAS:
+
+TAREFA 1:
+No arquivo Multipl.cs
+1. Transformar o método MultiplicacaoPorSoma, que é iterativo, em um método recursivo
+2. Indique no código onde está o valor inicial, incrementador e condição de parada. Eles mudaram quando foi mudado de iterativo para recursivo
+
+TAREFA 2:
+No arquivo Fatorial.cs
+1. Transformar o método CalculaFatorial, que é recursiva, em um método iterativo
+2. Na opinião do grupo, qual dos códigos é mais legível, o recursivo ou o iterativo? Por que?
+
+TAREFA 3 (DESAFIO):
+No arquivo Mdc.cs
+1. Transformar o método CalculaMdc, que é iterativo, em um método recursivo
+2. Quem é o incrementador/decrementador deste laço (tanto no método recursivo quanto no iterativo)
